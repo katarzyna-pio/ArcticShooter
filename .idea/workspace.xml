@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e48a5eb9-03df-44e5-9c0c-e036935cd573" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Arctic Shooter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/blue_land_ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/death/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/idle/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/idle/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/idle/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/idle/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/idle/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/jump/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemy/run_shoot/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/live_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/death/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/idle/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/idle/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/idle/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/idle/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/idle/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/jump/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/main_character/run_shoot/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/sheet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/tilemap.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2pm6suVKNpp0KK8hKVu8JG3wfqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/panda/PycharmProjects/Arctic Shooter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\panda\PycharmProjects\Arctic Shooter" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e48a5eb9-03df-44e5-9c0c-e036935cd573" name="Changes" comment="" />
+      <created>1733359114224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733359114224</updated>
+      <workItem from="1733359122748" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
