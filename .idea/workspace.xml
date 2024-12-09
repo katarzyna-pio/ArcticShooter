@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e48a5eb9-03df-44e5-9c0c-e036935cd573" name="Changes" comment="First version">
+    <list default="true" id="e48a5eb9-03df-44e5-9c0c-e036935cd573" name="Changes" comment="requirements added">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/panda/PycharmProjects/Arctic Shooter&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/panda/PycharmProjects/gra_inzynierka — kopia (2)&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,7 +75,10 @@
       <option name="presentableId" value="Default" />
       <updated>1733359114224</updated>
       <workItem from="1733359122748" duration="2491000" />
-      <workItem from="1733409912096" duration="486000" />
+      <workItem from="1733409912096" duration="848000" />
+      <workItem from="1733513145508" duration="5011000" />
+      <workItem from="1733675588653" duration="1010000" />
+      <workItem from="1733756560202" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <option name="closed" value="true" />
@@ -82,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733359625534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="requirements added">
+      <option name="closed" value="true" />
+      <created>1733410590013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733410590013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,9 +104,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+    <MESSAGE value="requirements added" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Arctic_Shooter$main.coverage" NAME="main Coverage Results" MODIFIED="1733359440284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arctic_Shooter$main.coverage" NAME="main Coverage Results" MODIFIED="1733757536832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -71,3 +71,16 @@ Score: 10, Time: 9s
 Score: 10, Time: 6s
 Score: 10, Time: 9s
 Score: 0, Time: 2s
+Score: 10, Time: 7s
+Score: 0, Time: 8s
+Score: 0, Time: 9s
+Score: 10, Time: 20s
+Score: 0, Time: 12s
+Score: 10, Time: 15s
+Score: 0, Time: 7s
+Score: 0, Time: 3s
+Score: 0, Time: 7s
+Score: 0, Time: 3s
+Score: 0, Time: 2s
+Score: 0, Time: 2s
+Score: 0, Time: 3s

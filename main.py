@@ -11,7 +11,7 @@ clock = pygame.time.Clock()
 game_map = Map("maps/tilemap.tmx")
 offset_x = 0
 score = 0
-start_time = pygame.time.get_ticks()
+
 moving_left = False
 moving_right = False
 shoot = False
@@ -416,9 +416,32 @@ def reset_game():
     elapsed_time = 0
     start_time = pygame.time.get_ticks()
 
+running=True
+game_started=False
 
-while True:
-    if game_over:
+while running:
+    if not game_started:
+        screen.blit(background_image, (0, 0))
+        font = pygame.font.Font(None, 80)
+        start_text = font.render("PRESS ENTER TO START", True, (249, 198, 207))
+        exit_text = font.render("PRESS ESC TO EXIT", True, (249, 198, 207))
+        start_text_rect = start_text.get_rect(center=(screen_width // 2, screen_height // 2 - 50))
+        exit_text_rect = exit_text.get_rect(center=(screen_width // 2, screen_height // 2 + 50))
+        screen.blit(start_text, start_text_rect)
+        screen.blit(exit_text, exit_text_rect)
+        pygame.display.flip()
+
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                running = False
+            if event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_RETURN:  # ENTER
+                    game_started = True
+                    start_time = pygame.time.get_ticks()
+                if event.key == pygame.K_ESCAPE:
+                    running = False
+
+    elif game_over:
         screen.blit(background_image, (0, 0))
 
         font1 = pygame.font.Font(None, 100)
@@ -467,14 +490,12 @@ while True:
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
-                pygame.quit()
-                exit()
+                running = False
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_r:
                     reset_game()
                 if event.key == pygame.K_ESCAPE:
-                    pygame.quit()
-                    exit()
+                    running = False
 
     else:
         draw_background()
@@ -508,8 +529,7 @@ while True:
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
-                pygame.quit()
-                exit()
+                running = False
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
                     moving_left = True
@@ -520,8 +540,7 @@ while True:
                 if event.key == pygame.K_SPACE:
                     shoot = True
                 if event.key == pygame.K_ESCAPE:
-                    pygame.quit()
-                    exit()
+                    running = False
 
             if event.type == pygame.KEYUP:
                 if event.key == pygame.K_LEFT:
